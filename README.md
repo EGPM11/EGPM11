@@ -1,16 +1,22 @@
-## Hi there 👋
+## 👋 Hi, I'm Edison Pujols
 
-<!--
-**EGPM11/EGPM11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer with a focus on Python automation and scripting.
+Currently building practical tools to solve real-world problems.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Python
+- Git & GitHub
+- Basic Linux
+- Automation & Scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Goal
+Actively looking for a **remote junior role** where I can apply Python automation,
+while preparing for a degree in Cybersecurity (starting 2026).
+
+### 📌 What you'll find here
+- Clean Python automation scripts
+- Data handling & file processing tools
+- Projects with clear documentation and examples
+
+### 📫 Contact
+- www.linkedin.com/in/edison-pujols
